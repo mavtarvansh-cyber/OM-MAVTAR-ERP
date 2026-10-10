@@ -1,0 +1,6 @@
+{
+  "name": "Om Mavtar ERP",
+  "description": "Om Mavtar ERP - Apparel, Garments & Export Management System with Cloud Storage and Cross-Device Synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
